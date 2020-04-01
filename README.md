@@ -1,2 +1,0 @@
-# cdn_nes
-NES
