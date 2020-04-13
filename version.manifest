@@ -2,7 +2,7 @@
 	"packageUrl" : "https://raw.githubusercontent.com/superemu/cdn_nes/master",
     	"remoteManifestUrl" : "https://raw.githubusercontent.com/superemu/cdn_nes/master/project.manifest",
     	"remoteVersionUrl" : "https://raw.githubusercontent.com/superemu/cdn_nes/master/version.manifest",
-	"version" : "3",
+	"version" : "5",
 	"engineVersion" : "3.6.1",
 	"assets" : {},
     "searchPaths" : []
